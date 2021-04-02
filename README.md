@@ -49,9 +49,17 @@ Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 
 rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to "another/name2"
 
+rename your package line 1 /app/src/main/java/change/name/app/MainApplication.java
 
+package change.name.app by your package name 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113436891-da0cd500-93e5-11eb-9714-660a1e95d4a6.png)
 
+change the name of your package line 1 and the name of your web in Line 24 /app/src/main/java/change/name/app/MainActivity.java
+
+package change.name.app by your package name
+YOUR.HOSTNAME for example google.com 
+
+![imagen](https://user-images.githubusercontent.com/3398370/113437191-7f27ad80-93e6-11eb-8bb9-0c14fd28f7d5.png)
 
 
