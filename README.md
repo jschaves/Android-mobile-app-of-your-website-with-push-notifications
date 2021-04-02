@@ -62,4 +62,13 @@ YOUR.HOSTNAME for example google.com
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113437191-7f27ad80-93e6-11eb-8bb9-0c14fd28f7d5.png)
 
+change the name of your package line 1 and the name of your web in Line 16 /app/src/main/java/change/name/app/MyWebViewClient.java
+
+package change.name.app by your package name
+YOUR.HOSTNAME for example google.com 
+
+![imagen](https://user-images.githubusercontent.com/3398370/113437541-168d0080-93e7-11eb-82a0-c4e08de7fd8d.png)
+
+
+
 
