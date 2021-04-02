@@ -34,4 +34,6 @@ Then Click Native Android then save
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113434849-feff4900-93e1-11eb-90e9-c78d8322035a.png)
 
-So copy your App ID and paste it in 
+So copy your App ID and paste it in MainApplication.java Line 7 
+"private static final String ONESIGNAL_APP_ID = "Your code onesignal android id";"
+
