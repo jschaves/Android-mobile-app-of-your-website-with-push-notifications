@@ -34,11 +34,19 @@ Then Click Native Android then save
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113434849-feff4900-93e1-11eb-90e9-c78d8322035a.png)
 
+
+
 So copy your App ID
 
 Download to your computer https://github.com/jschaves/Android-mobile-app-of-your-website-with-push-notifications.git 
 
 Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 
-ONESIGNAL_APP_ID = Your code onesignal android id
+![imagen](https://user-images.githubusercontent.com/3398370/113436036-42f34d80-93e4-11eb-8d15-9ea2914be021.png)
+
+![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
+
+
+rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to "another/name2"
+
 
