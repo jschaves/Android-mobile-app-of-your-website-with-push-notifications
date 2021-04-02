@@ -1,5 +1,5 @@
 # Android-mobile-app-of-your-website-with-push-notifications
-Create an Android mobile app of your website with push notifications with firebase and OneSignal
+Create an Android mobile app of your website with push notifications with Firebase and OneSignal
 
 Requirements for creating a web application with push notifications 
 
