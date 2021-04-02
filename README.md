@@ -50,3 +50,8 @@ Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to "another/name2"
 
 
+
+![imagen](https://user-images.githubusercontent.com/3398370/113436891-da0cd500-93e5-11eb-9714-660a1e95d4a6.png)
+
+
+
