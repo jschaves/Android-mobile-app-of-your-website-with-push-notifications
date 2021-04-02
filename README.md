@@ -69,6 +69,10 @@ YOUR.HOSTNAME for example google.com
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113437541-168d0080-93e7-11eb-82a0-c4e08de7fd8d.png)
 
+rename your package line 3 /app/src/main/AndroidManifest.xml
+package change.name.app by your package name 
+
+![imagen](https://user-images.githubusercontent.com/3398370/113438091-2c4ef580-93e8-11eb-955e-4f667571f842.png)
 
 
 
