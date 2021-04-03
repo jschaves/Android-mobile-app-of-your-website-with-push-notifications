@@ -36,7 +36,8 @@ Then Click Native Android then save
 
 
 
-So copy your App ID
+
+Step 4. copy your App ID
 
 Download to your computer https://github.com/jschaves/Android-mobile-app-of-your-website-with-push-notifications.git 
 
@@ -46,8 +47,7 @@ Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
 
-
-rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to an "other/name2"
+Step 5. rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to an "other/name2"
 
 rename your package line 1 /app/src/main/java/change/name/app/MainApplication.java
 
@@ -70,7 +70,9 @@ YOUR.HOSTNAME for example google.com
 ![imagen](https://user-images.githubusercontent.com/3398370/113437541-168d0080-93e7-11eb-82a0-c4e08de7fd8d.png)
 
 rename your package line 3 /app/src/main/AndroidManifest.xml
-package change.name.app by your package name 
+package change.name.app by your package name
+
+Step 5. open the project with Android Studio and compile the APK 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113438091-2c4ef580-93e8-11eb-955e-4f667571f842.png)
 
