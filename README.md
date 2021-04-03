@@ -47,7 +47,7 @@ Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 ![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
 
 
-rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to a "nother/name2"
+rename your package, replace change/name with your actual package name, for example if your "package other.name2.app" would have to change the "cahge/name" folders to an "other/name2"
 
 rename your package line 1 /app/src/main/java/change/name/app/MainApplication.java
 
