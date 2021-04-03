@@ -72,9 +72,11 @@ YOUR.HOSTNAME for example google.com
 rename your package line 3 /app/src/main/AndroidManifest.xml
 package change.name.app by your package name
 
+![imagen](https://user-images.githubusercontent.com/3398370/113438091-2c4ef580-93e8-11eb-955e-4f667571f842.png)
+
 Step 5. open the project with Android Studio and compile the APK 
 
-![imagen](https://user-images.githubusercontent.com/3398370/113438091-2c4ef580-93e8-11eb-955e-4f667571f842.png)
+![imagen](https://user-images.githubusercontent.com/3398370/113473152-0bc68000-9468-11eb-8308-d90981046986.png)
 
 
 
