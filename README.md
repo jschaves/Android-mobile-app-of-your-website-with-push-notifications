@@ -35,8 +35,6 @@ Then Click Native Android then save
 ![imagen](https://user-images.githubusercontent.com/3398370/113434849-feff4900-93e1-11eb-90e9-c78d8322035a.png)
 
 
-
-
 Step 4. copy your App ID
 
 Download to your computer https://github.com/jschaves/Android-mobile-app-of-your-website-with-push-notifications.git 
@@ -69,10 +67,11 @@ YOUR.HOSTNAME for example google.com
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113437541-168d0080-93e7-11eb-82a0-c4e08de7fd8d.png)
 
-rename your package line 3 /app/src/main/AndroidManifest.xml
+rename your package line 3 and line 19 /app/src/main/AndroidManifest.xml
 package change.name.app by your package name
 
-![imagen](https://user-images.githubusercontent.com/3398370/113438091-2c4ef580-93e8-11eb-955e-4f667571f842.png)
+![imagen](https://user-images.githubusercontent.com/3398370/113476758-daf14580-947d-11eb-9858-84daded55cd9.png)
+
 
 Step 5. open the project with Android Studio and compile the APK 
 
