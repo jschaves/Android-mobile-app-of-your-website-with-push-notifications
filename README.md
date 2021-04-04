@@ -49,10 +49,6 @@ Step 5. rename your package, replace change/name with your actual package name, 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
 
-rename your package line 1 and chamge hostname in line 16 in /app/src/main/java/change/name/app/MyWebViewClient.java
-
-![imagen](https://user-images.githubusercontent.com/3398370/113517995-a23b9400-9583-11eb-984d-f17b127aba29.png)
-
 change the name of your package line 1 and the name of your web in Line 24 /app/src/main/java/change/name/app/MainActivity.java
 
 package change.name.app by your package name
