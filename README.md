@@ -49,11 +49,9 @@ Step 5. rename your package, replace change/name with your actual package name, 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
 
-rename your package line 1 /app/src/main/java/change/name/app/MainApplication.java
+rename your package line 1 and chamge hostname in line 16 in /app/src/main/java/change/name/app/MyWebViewClient.java
 
-package change.name.app by your package name 
-
-![imagen](https://user-images.githubusercontent.com/3398370/113436891-da0cd500-93e5-11eb-9714-660a1e95d4a6.png)
+![imagen](https://user-images.githubusercontent.com/3398370/113517995-a23b9400-9583-11eb-984d-f17b127aba29.png)
 
 change the name of your package line 1 and the name of your web in Line 24 /app/src/main/java/change/name/app/MainActivity.java
 
@@ -75,7 +73,7 @@ package change.name.app by your package name
 ![imagen](https://user-images.githubusercontent.com/3398370/113476758-daf14580-947d-11eb-9858-84daded55cd9.png)
 
 
-Step 5. open the project with Android Studio and compile the APK 
+Step 6. open the project with Android Studio and compile the APK 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113473152-0bc68000-9468-11eb-8308-d90981046986.png)
 
