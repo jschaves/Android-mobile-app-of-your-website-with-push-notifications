@@ -41,7 +41,7 @@ Step 4. copy your App ID
 
 Download to your computer https://github.com/jschaves/Android-mobile-app-of-your-website-with-push-notifications.git 
 
-Paste App ID it in /app/src/main/java/change/name/app/MainApplication.java Line 7
+Paste App ID it in /app/src/main/java/change/name/app/MainApplication.java Line 7 and package change.name.app by your package name in line 1
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113476805-1db31d80-947e-11eb-9a9d-114a93735904.png)
 
