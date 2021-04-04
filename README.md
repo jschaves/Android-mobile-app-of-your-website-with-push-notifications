@@ -37,9 +37,11 @@ Then Click Native Android then save
 
 Step 4. copy your App ID
 
+![imagen](https://user-images.githubusercontent.com/3398370/113517735-242abd80-9582-11eb-8db1-d7b0ef1167e4.png)
+
 Download to your computer https://github.com/jschaves/Android-mobile-app-of-your-website-with-push-notifications.git 
 
-Paste it in /app/src/main/java/change/name/app/MainApplication.java Line 1 and line 7
+Paste App ID it in /app/src/main/java/change/name/app/MainApplication.java Line 7
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113476805-1db31d80-947e-11eb-9a9d-114a93735904.png)
 
