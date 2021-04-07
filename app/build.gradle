@@ -10,7 +10,7 @@ android {
         targetCompatibility 1.8
     }
     defaultConfig {
-        applicationId "egeon.tt.app"
+        applicationId "mi.id.app"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
