@@ -49,7 +49,7 @@ Step 5. rename your package, replace change/name with your actual package name, 
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113436579-3fac9180-93e5-11eb-9bf1-a140d94166e5.png)
 
-change your id app line 13
+change your id app line 13 /app/build.gradle
 
 ![imagen](https://user-images.githubusercontent.com/3398370/113906626-ba562200-97d4-11eb-91cc-cd7145f6b5b9.png)
 
